@@ -1,0 +1,13 @@
+{
+    "name": "OTT-Device_Server",
+    "version": "1.0.0",
+    "description": "TCP Device Server",
+    "author": "Chris Reasner",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "pg": "^8.7.1"
+    }
+}
